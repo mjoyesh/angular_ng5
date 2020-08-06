@@ -8,11 +8,11 @@
 }
 
 .color-dark{
-    background: #2885c4;
+    background: #425461;
 }
 
 .color-light{
-    background: #57b3f1;
+    background: #457392;
 }
 
 input.txt{
@@ -30,6 +30,9 @@ input.btn{
     color: #003A61;
     margin-bottom: 1em;
     cursor: pointer;
+    &:hover{
+        background: #7ff350;
+    }
 }
 
 .life-container{
