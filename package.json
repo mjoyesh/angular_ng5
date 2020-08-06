@@ -1,7 +1,7 @@
 {
   "name": "ng5",
   "version": "0.0.0",
-  "homepage": "https://mjoyesh.github.io/angular_ng5/",
+  "homepage": "https://mjoyesh.github.io/angular_ng5/index.html",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
